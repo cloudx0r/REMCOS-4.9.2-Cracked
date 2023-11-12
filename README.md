@@ -10,19 +10,10 @@
 © BreakingSecurity.net
 	
 ************************
-* License Activation   *
+* Crack Activation   *
 ************************
 
-To activate your Remcos Professional Edition license
-(not needed for Remcos Free Edition):
-
-1) Open KeyGen.exe
-2) Insert your BreakingSecurity.net registration email
-3) Click "Generate Key"
-4) Click "Send Key"
-5) License is activated automatically and immediately.
-   You should receive a confirmation email within a minute.
-6) Click "Crack.exe" to make Free Edition become Remcos Profesional
+1) Click "Crack.exe" to make Free Edition become Remcos Profesional
 
 ************************
 * Quick Setup          *
