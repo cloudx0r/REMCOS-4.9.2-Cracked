@@ -14,7 +14,7 @@
 ************************
 1) Download Remcos Free https://breakingsecurity.net/remcos/free/
 2) Disable Windows Defender/All Antivirus
-3) Right click run as administrator "Crack.exe" to make Free Edition become Remcos Profesional
+3) Right click run as Administrator "Crack.exe" to make Free Edition become Remcos Profesional
 
 ************************
 * Quick Setup          *
